@@ -1,14 +1,6 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Furtsy 👋</h2>
-<h3>Hesaplarım:</h3>
-<p align="center">
-   <a href="https://discord.com/users/673166542954823691" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
- 
-   
-<a href="https://www.instagram.com/kadirchyzm/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/endstarr" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben EndStar 👋</h2>
 
-<a href="https://discord.com/invite/JSvKxPs" target"blank_"><img src="https://img.shields.io/discord/685767837591142404?style=for-the-badge&color=7289da&label=codare&logo=node.js&logoColor=white"></a>
-</p>
+
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
